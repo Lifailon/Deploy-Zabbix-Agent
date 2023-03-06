@@ -1,4 +1,4 @@
-# Deploy Zabbix Agent
+## Deploy Zabbix Agent
 
 Для распространения параметров шаблона **[Windows-User-Sessions](https://github.com/Lifailon/Windows-User-Sessions)**.
 
