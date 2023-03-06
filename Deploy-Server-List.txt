@@ -1,0 +1,4 @@
+rdsh-kc-01
+rdsh-kc-02
+server-01
+yandex.ru
